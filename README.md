@@ -1,5 +1,7 @@
 # GitHub Issues Viewer
 
+![githubviewer 2023-03-31 10_35_46](https://user-images.githubusercontent.com/36816412/229158357-dae3ce2a-4860-45af-90bd-d9330e3c9b69.gif)
+
 ## How to run
 
 #### Install NODE.JS (Current version v14.4.0 - but latest should be fine)
